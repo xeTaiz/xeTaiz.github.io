@@ -2,8 +2,14 @@
 
 Dominik Engel:
   name        : "Dominik Engel"
-  uri         : "dominikengel.com"
   email       : "mail@dominikengel.com"
-  bio         : ""
   avatar      : "bio-photo.jpg"
   twitter     : "xeTaiz"
+  github      : "xeTaiz"
+  employer         : "Ulm University"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  orcid            : "https://orcid.org/0000-0002-5766-7215"
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  twitter          : "xeTaiz"
+  youtube          :
+  wikipedia        :

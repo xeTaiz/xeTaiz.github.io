@@ -11,5 +11,5 @@ docs: "https://torchvtk.github.io/"
 ## torchvtk
 torchvtk is a PyTorch-based framework for efficient volume data loading, queued caching of data, native PyTorch-based transformations and general utilities to work with volume data and transfer functions.
 
-### [Code](https://github.com/torchvtk/torchvtk)
-### [Documentation](https://torchvtk.github.io)
+### [Code]({{ page.code }})
+### [Documentation]({{ page.docs }})

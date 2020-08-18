@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Dominik Engel"
-  avatar           : "profile.png"
+  avatar           : "bio-photo.png"
   bio              : "PhD Student at Ulm University. My interests are deep learning on visual data"
   location         : "Ulm"
   employer         : "Ulm University"
