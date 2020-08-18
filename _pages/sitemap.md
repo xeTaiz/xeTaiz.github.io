@@ -2,6 +2,7 @@
 layout: archive
 title: "Sitemap"
 permalink: /sitemap/
+author: Dominik Engel
 author_profile: true
 ---
 
