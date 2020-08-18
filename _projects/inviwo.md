@@ -4,6 +4,8 @@ excerpt: "Modular C++ Framework for rapid visualization prototyping"
 collection: projects
 author: Dominik Engel
 date: "2020-07-01"
+code: "https://github.com/inviwo/inviwo"
+docs: "https://inviwo.org"
 ---
 
 
