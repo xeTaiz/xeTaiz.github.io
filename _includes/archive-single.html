@@ -59,11 +59,11 @@
     {% if post.paperurl %}
       <a href="{{ post.paperurl }}"><i class="fas fa-file-pdf"></i>&nbsp;Paper</a> &nbsp; &nbsp; &nbsp;
     {% endif %}
+    {% if post.preprint %}
+    <a href="{{ post.preprint }}"><i class="fas fa-file-pdf"></i>&nbsp;Paper (Open Access)</a> &nbsp; &nbsp; &nbsp;
+    {% endif %}
     {% if post.code %}
     <a href="{{ post.code }}">    <i class="fab fa-github"></i>&nbsp;Code</a> &nbsp; &nbsp; &nbsp;
-    {% endif %}
-    {% if post.preprint %}
-    <a href="{{ post.preprint }}"><i class="fas fa-file-pdf"></i>&nbsp;Preprint (Open Access)</a> &nbsp; &nbsp; &nbsp;
     {% endif %}
     {% if post.video %}
       <a href="{{ post.video }}">    <i class="fab fa-youtube"></i>&nbsp;Video</a> &nbsp; &nbsp; &nbsp;

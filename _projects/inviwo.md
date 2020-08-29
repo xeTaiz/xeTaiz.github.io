@@ -8,6 +8,7 @@ code: "https://github.com/inviwo/inviwo"
 website: "https://inviwo.org"
 docs: "https://inviwo.org/manual_index.html"
 paperurl: "https://ieeexplore.ieee.org/document/8730513"
+preprint: "http://liu.diva-portal.org/smash/get/diva2:1360056/FULLTEXT01"
 citation: 'Jönsson, Daniel et al.: &quot;Inviwo - A Visualization System with Usage Abstraction Levels&quot; in <i>IEEE Transactions on Visualization and Computer Graphics</i> (2019).'
 ---
 
