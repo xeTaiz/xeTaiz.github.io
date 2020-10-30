@@ -44,10 +44,6 @@
     display: none;
 }
 
-.highlight {
-    font-size: inherit;
-}
-
-div.highlighter-rouge .highlight, figure.highlight .highlight {
+div.highlighter-rouge .highlight, figure.highlight .highlight pre.highlight {
     font-size: inherit;
 }
