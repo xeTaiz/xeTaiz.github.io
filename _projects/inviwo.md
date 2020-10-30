@@ -32,3 +32,6 @@ Inviwo is a software framework for the rapid prototyping visualizations. It is w
     ISSN     = {1077-2626},
 }
 ```
+
+### Inviwo Features
+{% include youtube.html id="9yZWjxlV6OQ" %}
