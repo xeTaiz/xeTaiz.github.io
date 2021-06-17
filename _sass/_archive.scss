@@ -45,6 +45,7 @@
 
   a + a {
     opacity: 0.5;
+    text-decoration: none;
   }
 }
 
@@ -62,8 +63,28 @@
   font-size: $type-size-6;
 
   & + p {
-    text-indent: 0;
+    text-indent: 1em;
   }
+}
+
+.archive__item-links {
+  margin-left: 1em;
+
+  & + a {
+    color: #103A54;
+    text-decoration: none;
+  }
+}
+
+.archive__item-description {
+  margin-left: 1em;
+  font-size: 12pt;
+  font-style: italic;
+}
+
+.archive__item-citation {
+  font-size: 10pt;
+  line-height: 1;
 }
 
 .archive__item-teaser {

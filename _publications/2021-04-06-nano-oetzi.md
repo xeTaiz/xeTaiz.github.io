@@ -5,7 +5,7 @@ permalink: /nano-oetzi
 excerpt: 'Automatic visualization of Cryo-ET data using deep learning based 3D segmentation'
 author: Dominik Engel
 venue: 'arXiv (under review)'
-citation: 'Nguyen, Ngan et al.: "Finding Nano-Ötzi: Semi-Supervised Volume Visualization for Cryo-Electron Tomography", arXiv:2104.01554'
+citation: 'Ngan Nguyen et al.: "Finding Nano-Ötzi: Semi-Supervised Volume Visualization for Cryo-Electron Tomography", arXiv:2104.01554'
 paperurl: "https://arxiv.org/abs/2104.01554"
 ---
 
