@@ -7,8 +7,8 @@ author: Dominik Engel
 venue: 'arXiv (under review)'
 citation: 'Nguyen, Ngan et al.'
 code: ""
-paperurl: ""
-preprint: "https://arxiv.org/abs/2104.01554"
+paperurl: "https://arxiv.org/abs/2104.01554"
+preprint: ""
 ---
 
 
@@ -26,7 +26,7 @@ released upon acceptance
 ### Citation
 
 ```bibtex
-@article{engel2020dvao,
+@article{nguyen2021nano-oetzi,
   title={Finding Nano-\"Otzi: Semi-Supervised Volume Visualization for Cryo-Electron Tomography},
   author={Ngan Nguyen and Ciril Bohak and Dominik Engel and Peter Mindek and Ondřej Strnad and Peter Wonka and Sai Li and Timo Ropinski and Ivan Viola},
   year={2021},
