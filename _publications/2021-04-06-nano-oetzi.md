@@ -4,6 +4,7 @@ collection: publications
 permalink: /nano-oetzi
 excerpt: 'Automatic visualization of Cryo-ET data using deep learning based 3D segmentation'
 author: Dominik Engel
+paperauthors: 'Ngan Nguyen*, Ciril Bohak*, <b>Dominik Engel</b>, Peter Mindek, Ondřej Strnad, Peter Wonka, Sai Li, Timo Ropinski, Ivan Viola'
 venue: 'IEEE Transactions on Visualization and Computer Graphics'
 citation: 'Ngan Nguyen et al.: "Finding Nano-Ötzi: Semi-Supervised Volume Visualization for Cryo-Electron Tomography"in <i>IEEE Transactions on Visualization and Computer Graphics</i> (2022).'
 code: "https://github.com/nanovis/nano-oetzi"
