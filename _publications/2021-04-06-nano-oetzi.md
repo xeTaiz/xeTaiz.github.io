@@ -6,6 +6,7 @@ author: Dominik Engel
 paperauthors: 'Ngan Nguyen*, Ciril Bohak*, <b>Dominik Engel</b>, Peter Mindek, Ondřej Strnad, Peter Wonka, Sai Li, Timo Ropinski, Ivan Viola'
 sharedfirst: true
 venue: 'IEEE Transactions on Visualization and Computer Graphics'
+year: '2022'
 citation: 'Ngan Nguyen et al.: "Finding Nano-Ötzi: Semi-Supervised Volume Visualization for Cryo-Electron Tomography"in <i>IEEE Transactions on Visualization and Computer Graphics</i> (2022).'
 code: "https://github.com/nanovis/nano-oetzi"
 paperurl: "https://ieeexplore.ieee.org/document/9806341"
